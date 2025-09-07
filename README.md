@@ -60,3 +60,11 @@ const Painter = {}
 // put random text inside of each button so you can be sure 
 // that each button is different.
 ```
+
+### README SECTION BELOW
+
+I was only able to finish problems 1 and 2 in class, and worked on 3 and 4 alone
+
+For both 1 and 2, the answers were pretty similar except for how people handled generation of a random color. I generated random hexcodes while others in the group generated random RGB number combinations. 
+
+One of my teammates also showed me an extension in VScode to run a server through the IDE and be able to see how it looks on localhost:5500. This isn't related to the code necessarily, but I thought it was worth noting.
